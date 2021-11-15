@@ -1,1 +1,4 @@
 In the beginning was the word
+
+//has been reviewed and approved by
+editor to be good
